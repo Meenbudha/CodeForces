@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class WayToLong{
     public static void main(String[] args){
